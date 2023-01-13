@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-osama-salem&show_icons=true&locale=en" alt="ahmed-osama-salem" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-osama-salem&" alt="ahmed-osama-salem" /></p>
+
+![Ahmed-Osama-Salem's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Osama-Salem&theme=dracula&hide_border=false)
