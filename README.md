@@ -68,4 +68,5 @@
 ![Ahmed-Osama-Salem's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Osama-Salem&theme=dracula&hide_border=false)
 
 <!-- <img src="https://raw.githubusercontent.com/Ahmed-Osma/Ahmed-Osma/blob/output/snake.svg" alt="Snake animation" /> -->
+![snake gif](https://github.com/Ahmed-Osama-Salem/Ahmed-Osama-Salem/blob/output/github-contribution-grid-snake.gif)
 
