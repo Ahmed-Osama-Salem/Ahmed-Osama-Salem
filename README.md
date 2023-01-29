@@ -23,7 +23,12 @@
 - 📫 How to reach me **Ahmedosamaweb@gmail.com**
 
 - ⚡ Fun fact **Montage**
-<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/coffee.gif" />
+
+<div align="left">
+  <img align="left" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/coffee.gif" />
+<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="Raghav Khullar" width="150" height="150" />
+</div>
+<br>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
