@@ -3,8 +3,6 @@
 
 ![Ahmed_Osama](https://readme-typing-svg.herokuapp.com/?font=Inter&color=D61355&size=30&weight=700&lines=my+name+is+Ahmed+Osama;Front-End+developer)
 <br/>
-<br/>
-
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
 <div align="center">
