@@ -1,22 +1,22 @@
-<h1 align="center">Hi 👋, I'm Ahmed osama salem</h1>
-<br/>
-
-![Ahmed_Osama](https://readme-typing-svg.herokuapp.com/?font=Inter&color=D61355&size=30&weight=700&lines=my+name+is+Ahmed+Osama;Front-End+developer)
+<!-- <h1 align="center">Hi 👋, I'm Ahmed osama salem</h1>
+<br/> -->
+<div align="center">
+  
+![Ahmed_Osama](https://readme-typing-svg.herokuapp.com/?font=Inter&color=5EB3B3&size=30&weight=700&lines=<Ahmed+Osama+Salem/>;<Front-end+developer/>)
+</div>
+<hr/>
 <br/>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-<div align="center">
+<!-- <div align="center">
   <img height="200" src="https://media.licdn.com/dms/image/C4D16AQFA89iIOhtqrg/profile-displaybackgroundimage-shrink_350_1400/0/1657750085045?e=1678924800&v=beta&t=ImI9mI8m_1XEWxbzw9_tAKnccT057yghX0FfiOg3nPk"  />
-</div>
+</div> -->
 
 ###
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-osama-salem&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-osama-salem" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-osama-salem" alt="ahmed-osama-salem" /></a> </p> -->
 
 - 🌱 I’m currently learning java **Java data structures**
 
@@ -50,13 +50,14 @@
 </p>
 </div>
 <br/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Osama-Salem&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="ahmed osama github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Osama-Salem&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-osama-salem&show_icons=true&locale=en&layout=compact" alt="ahmed-osama-salem" /></p>
+
 <br/>
-
-
-![Ahmed-Osama-Salem's stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Osama-Salem&show_icons=true&theme=radical)
-<br/>
-![Ahmed-Osama-Salem's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Osama-Salem&theme=dracula&hide_border=false)
+<div align="center">
 
 ![snake gif](https://github.com/Ahmed-Osama-Salem/Ahmed-Osama-Salem/blob/output/github-contribution-grid-snake.gif)
+  </div>
