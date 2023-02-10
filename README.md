@@ -18,7 +18,7 @@
 </p>
 
 
-- 🌱 I’m currently learning java **Java data structures**
+- 🌱 I’m currently learning **Java data structures**
 
 - 👨‍💻 All of my projects are available at [https://ahmed-osama-salem.github.io/ahmed-profile.js/](https://ahmed-osama-salem.github.io/ahmed-profile.js/)
 
