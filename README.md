@@ -60,7 +60,6 @@
   ![top lang](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmed-Osama-Salem&theme=2077)
 </div>
 
-
 <br/>
 <div align="center">
 
