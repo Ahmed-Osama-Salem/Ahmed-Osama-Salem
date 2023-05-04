@@ -40,7 +40,6 @@
 <a href="https://stackoverflow.com/users/ahmed osama salem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ahmed osama salem" height="30" width="40" /></a>
 </p>
 
-
 <div align="center">
   <h3 align="left">Languages and Tools:</h3>
  <p align="center">
