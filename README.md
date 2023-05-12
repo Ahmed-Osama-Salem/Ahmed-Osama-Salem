@@ -8,9 +8,7 @@
 <br/>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-<!-- <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/C4D16AQFA89iIOhtqrg/profile-displaybackgroundimage-shrink_350_1400/0/1657750085045?e=1678924800&v=beta&t=ImI9mI8m_1XEWxbzw9_tAKnccT057yghX0FfiOg3nPk"  />
-</div> -->
+
 
 ###
 <p align="center">
