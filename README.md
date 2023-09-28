@@ -2,11 +2,11 @@
 <br/> -->
 <div align="center">
   
-![Ahmed_Osama](https://readme-typing-svg.herokuapp.com/?font=Inter&color=5EB3B3&size=30&weight=700&lines=<Ahmed+Osama+Salem/>;<Front-end+developer/>)
+![Ahmed_Osama](https://readme-typing-svg.herokuapp.com/?font=Inter&color=5EB3B3&size=30&weight=700&lines=<Ahmed+Osama+Salem/>;<Full-Stack+developer/>)
 </div>
 <hr/>
 <br/>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate Full-Stack Developer from Egypt</h3>
 
 
 ###
