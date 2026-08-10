@@ -46,8 +46,8 @@
 </div>
 
 <div align="center">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Osama-Salem&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="ahmed osama github stats" />
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Osama-Salem&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<img width="49%" height="195px" src="https://github-stats-extended.vercel.app/api?username=Ahmed-Osama-Salem&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="ahmed osama github stats" />
+<img width="41%" height="195px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ahmed-Osama-Salem&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <div align="center">
@@ -55,7 +55,7 @@
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Osama-Salem&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+<img src="https://github-trophies.devomb.com/?username=Ahmed-Osama-Salem&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
 </div>
 
 <br/>
